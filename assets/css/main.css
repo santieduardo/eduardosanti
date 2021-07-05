@@ -1080,3 +1080,10 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
+		.circle-image {
+			border-radius: 50%;
+			height: 6em;
+			width: 6em;
+			border: 1px solid #fff;
+		}
